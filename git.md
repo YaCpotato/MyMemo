@@ -1,4 +1,4 @@
-#gitメモ
+# gitメモ
 1. gitで管理したいファイルを作る　`mkdir samplefile`
 2. gitを入れる　`git init`
   3. ファーストコミットをする
