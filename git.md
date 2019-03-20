@@ -6,10 +6,10 @@
   `git commit -m "First Commit"`
   4. 作業をしたら
   `git add -A`
-  'git commit -m "Initialized repository"'
+  `git commit -m "Initialized repository"`
   
   3. githubと連携する
   `git remote add origin githubのSSHリンク`
   4. 作業をしたら
   `git add -A`
-  'git commit -m "Initialized repository"'
+  `git commit -m "Initialized repository"`
