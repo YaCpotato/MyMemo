@@ -12,5 +12,18 @@ git memo
 |マルゲリータ|ピザ|1000|
 |白ワイン|ドリンク|500|
 
+```javascript
+function test() {
+    console.log('Hello world');
+}
+
+var app=new Vue({
+    el:'#app',
+    data:{
+        msg:"Hello World";
+    },
+})
+```
+
 ## Research Progress
 DAMEDESU
