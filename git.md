@@ -9,3 +9,7 @@
 `git add -A`(ST:作業コピー)  
 `git commit -m "Initialized repository"`(ST:コミット)  
 `git push origin master`(ST:プッシュ)  
+
+リモート先から持ってきたい場合はcloneもしくはpull
+
+`git status`でブランチ等の状態を確認できる
