@@ -8,3 +8,8 @@ webソースファイルは、インストールしたxamppフォルダ、MAMP�
 
 ##jsの他に、HTMLやCSSはもちろん、PHPやPerlも使える
 Vue.jsはソースファイル内にCDNで設定してもいいし、htdocs内ならダウンロードしたminファイルを置いておいてもよい
+
+VueMemo
+インスタンス内の文字列に変数を加えたい場合、文字列をバッククオートで囲み、変数は＄をつけうｒ
+
+`https://twitter.com/${{ screen_name }}`
