@@ -1,0 +1,1 @@
+Autoaugment実装。最終predictの際のargmaxをFalseのまま実行してしまい正確な結果が取れなかった。
